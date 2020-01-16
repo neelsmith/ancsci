@@ -1,0 +1,24 @@
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Ancient Science, S'20"
+tagline:          ''
+description:      'Ancient Science'
+
+url: http://shot.holycross.edu/courses/science/S20/
+
+
+
+
+
+links:
+  - title: Home
+    url: /
+  - title: Schedule
+    url: /schedule         
+  - title: Instructor
+    url: http://neelsmith.info/holycross/contact/
+    external: true

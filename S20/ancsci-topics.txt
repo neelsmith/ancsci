@@ -1,0 +1,69 @@
+
+## Introduction: describing archaeological data (Roman imperial coins)
+
+[What is archaeological data analysis?](../assignments/intro)#
+[Managing digital data](../assignments/managing)
+
+[The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging)
+[Describing the contents of *OCRE*](summarize_OCRE)#
+
+## Working with legacy data (Greek painted pottery)
+
+[Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley)#
+[Class field trip to WAM](../assignments/wam)#
+
+[Introduction to geographic information systems](../gis)#
+[Analyzing composite data for Attic vase distribution](../assigments/vase_composites)#
+
+## Textual sources and spatial analysis (Ptolemy's catalog of the world)
+
+Ptolemy's *Geography*
+Scaling and aligning Ptolemy's data
+
+Identifying spatial outliers
+Measuring settlement density
+
+
+
+### Spring break
+
+*Spring break*
+*Spring break*
+
+
+## Spatial networks (Greek coin hoards)
+
+The *Inventory of Greek Coin Hoards*#
+Mapping coin hoards with Google Earth
+
+
+TBA
+TBA
+
+
+## Clustering data (How did rooms function in Pompeii?)
+
+
+Pompeiian rooms as archaeological contexts
+Using topic modelling to cluster data
+
+TBA
+TBA
+
+## Exploring other topics
+
+Discussion of project proposals#
+*Easter break*
+
+
+
+Revisiting Roman imperial coinage
+Applying your skills to other data sets
+
+## Project presentation and course review
+
+Presentations, 1#
+Presentations, 2
+
+Building a web site for your digital portfolio
+Course review

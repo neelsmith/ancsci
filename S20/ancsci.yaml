@@ -1,0 +1,19 @@
+# Configure a course calendar
+# Used for title of web page
+pageTitle : "Ancient Science, S'20: course schedule"
+# YYYY-MM-DD
+firstDay: "2020-01-21"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule : "tt"
+
+# Number of weeks the calendar should run for
+totalWeeks : 15
+
+fixedDates:
+  - 2020-03-03 == Spring break
+  - 2020-03-05 == Spring break
+  - 2020-04-00 == Thursday, Easter break
+  - 2020-05-05 == Exams begin
+  - 2020-04-21 == Academic conference on Wednesday
+  - 2020-04-30 == NB! Last day to submit final projects is Wed., May 6.
