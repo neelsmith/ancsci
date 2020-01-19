@@ -11,9 +11,12 @@ schedule : "tt"
 totalWeeks : 15
 
 fixedDates:
-  - 2020-03-03 == Spring break
-  - 2020-03-05 == Spring break
-  - 2020-04-00 == Thursday, Easter break
+  - 2020-01-30 == Exercise, shadow plot
+  - 2020-03-03 == Spring break, Mar. 3 and 5.
+  - 2020-03-05 == Spring break, Mar. 3 and 5.
+  - 2020-04-09 == Thursday, Easter break
+  - 2020-03-19 == Thursday, spring equinox.
+  - 2020-03-24 == Tuesday, lab assignment due (size of the earth).
   - 2020-05-05 == Exams begin
-  - 2020-04-21 == Academic conference on Wednesday
+  - 2020-04-21 == Academic conference on Wednesday, Apr. 22.
   - 2020-04-30 == NB! Last day to submit final projects is Wed., May 6.
