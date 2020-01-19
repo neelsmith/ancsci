@@ -1,28 +1,24 @@
 
-## Introduction: describing archaeological data (Roman imperial coins)
 
-[What is archaeological data analysis?](../assignments/intro)#
-[Managing digital data](../assignments/managing)
+## Observation and argumentation: mathematical astronomy and geography
 
-[The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging)
-[Describing the contents of *OCRE*](summarize_OCRE)#
+Introduction to course
+The *phaenomena*: the ancient astronomical model
 
-## Working with legacy data (Greek painted pottery)
+Scientific argument: Ptolemy, *On the Criterion*
+Naked-eye astronomy with a gnomon
 
-[Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley)#
-[Class field trip to WAM](../assignments/wam)#
+Euclidean proof and Euclidean astronomy
+Eratosthenes' measurement of the earth's circumference
 
-[Introduction to geographic information systems](../gis)#
-[Analyzing composite data for Attic vase distribution](../assigments/vase_composites)#
+Numeric computation and the chord function
+Tables and rising times. Hypsicles to Ptolemy's Almagest
 
-## Textual sources and spatial analysis (Ptolemy's catalog of the world)
+Geography's domain, Herodotus to Ptolemy
+Antiquity's largest data set: Ptolemy's Geography
 
-Ptolemy's *Geography*
 Scaling and aligning Ptolemy's data
-
-Identifying spatial outliers
-Measuring settlement density
-
+Collective evaluation of Ptolemy's data
 
 
 ### Spring break
@@ -31,39 +27,41 @@ Measuring settlement density
 *Spring break*
 
 
-## Spatial networks (Greek coin hoards)
-
-The *Inventory of Greek Coin Hoards*#
-Mapping coin hoards with Google Earth
 
 
-TBA
-TBA
+
+## Manuscripts and other scientific instruments
+
+The Archimedes palimpsest#palimpsest.html#
+Archimedes, On Floating Bodies#float.html#
 
 
-## Clustering data (How did rooms function in Pompeii?)
+
+Spherics and diagrams#euclid-diagrams.html
+Archimedes and sphere making? The Antikythera machine#spheremaking.html
 
 
-Pompeiian rooms as archaeological contexts
-Using topic modelling to cluster data
 
-TBA
-TBA
+Scientific discovery: Archimedes, The Method#method.html
+maybe more
 
-## Exploring other topics
 
-Discussion of project proposals#
+Playful science? Archimedes, The Sand Reckoner#
+"Popular" science in antiquity#
+
+Auxiliary works? Ptolemy, the Planisphere#planisphere.html
+
+
 *Easter break*
 
 
+another
 
-Revisiting Roman imperial coinage
-Applying your skills to other data sets
 
-## Project presentation and course review
+The science of music
+Developing the science of music
 
-Presentations, 1#
-Presentations, 2
+arabic.html# Greek science in the Arab world
 
-Building a web site for your digital portfolio
+Project presentations
 Course review

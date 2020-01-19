@@ -16,20 +16,17 @@ Lab modules:  out of 3
 - MS
 - Ptolemy's data
 
-Exercises:
+Quizzes and exercises:
 
-1. Euclidean proof
+5. Interpreting a shadow plot: Jan. 30
+1. Euclidean proof Feb 4.
+2. Computing with Greek numbers Feb. 11
+4. Using a table of rising times Feb. 18
+5. Names places quiz(zes?) Feb. 20
+5.
 2. Archimedean diagrams?
-3. Computing with Greek numbers
-4. Using a table of rising times
-5. Interpreting a shadow plot
-6. Recording a shadow plot
-7. Names places quiz(zes?)
 
-Reading response:
 
-- Criterion
--
 
 
 ## Class attendance
