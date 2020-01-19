@@ -23,4 +23,4 @@ Then, anytime,
 
 Build pdf of syllabus data:
 
-    pandoc -s -o syllabus.pdf _syllabus.md [0-9]*md
+    pandoc -s -o syllabus/syllabus.pdf syllabus/_syllabus.md syllabus/[0-9]*md
