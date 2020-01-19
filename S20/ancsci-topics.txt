@@ -8,14 +8,14 @@ The *phaenomena*: the ancient astronomical model
 Scientific argument: Ptolemy, *On the Criterion*
 Naked-eye astronomy with a gnomon
 
-Euclidean proof and Euclidean astronomy
+Euclidean proof and Euclidean astronomy vs. Archimedes, *The Method*
 Eratosthenes' measurement of the earth's circumference
 
 Numeric computation and the chord function
-Tables and rising times. Hypsicles to Ptolemy's Almagest
+Tables and rising times. Hypsicles to Ptolemy's *Almagest*
 
-Geography's domain, Herodotus to Ptolemy
-Antiquity's largest data set: Ptolemy's Geography
+Geography's domain, Herodotus, Strabo, Ptolemy
+Antiquity's largest data set: Ptolemy's *Geography*
 
 Scaling and aligning Ptolemy's data
 Collective evaluation of Ptolemy's data
@@ -30,38 +30,40 @@ Collective evaluation of Ptolemy's data
 
 
 
-## Manuscripts and other scientific instruments
+## The practice of science: manuscripts and other scientific instruments
 
-The Archimedes palimpsest#palimpsest.html#
-Archimedes, On Floating Bodies#float.html#
-
-
-
-Spherics and diagrams#euclid-diagrams.html
-Archimedes and sphere making? The Antikythera machine#spheremaking.html
+The Archimedes palimpsest, and Archimedes, *On Floating Bodies*
+Reading tables in MSS of Ptolemy
 
 
+Spherics and four-dimensional diagrams
+The *Handy Tables*
 
-Scientific discovery: Archimedes, The Method#method.html
-maybe more
+
+Ptolemy, the *Planisphere*
+Scientific communities in the letters of Archimedes
 
 
-Playful science? Archimedes, The Sand Reckoner#
-"Popular" science in antiquity#
+Playful science? Archimedes, *The Sand Reckoner*#
+Archimedes and sphere making
 
-Auxiliary works? Ptolemy, the Planisphere#planisphere.html
 
+"Popular" science in antiquity and the Antikythera machine
 
 *Easter break*
 
 
-another
+Auxiliary works: Ptolemy, the *Planisphere*
 
 
+
+
+
+
+Publishing ancient science digitally
 The science of music
-Developing the science of music
 
-arabic.html# Greek science in the Arab world
+Greek science in the Arab world
 
 Project presentations
 Course review
