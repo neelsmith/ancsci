@@ -29,13 +29,13 @@ Course grades will be determined by your completion of course requirements in th
 
 
 
-For details on lab modules: http://shot.holycross.edu/courses/science/S20/labs/
+For details on lab modules: <http://shot.holycross.edu/courses/science/S20/labs/>
 
-For details on quizzes: http://shot.holycross.edu/courses/science/S20/quizzes/
+For details on quizzes: <http://shot.holycross.edu/courses/science/S20/quizzes/>
 
-For details on developing data sets: http://shot.holycross.edu/courses/science/S20/datasets/
+For details on developing data sets: <http://shot.holycross.edu/courses/science/S20/datasets/>
 
-For details on self-designed projects: http://shot.holycross.edu/courses/science/S20/projects/
+For details on self-designed projects: <http://shot.holycross.edu/courses/science/S20/projects/>
 
 
 

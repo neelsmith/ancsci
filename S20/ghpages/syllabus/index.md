@@ -8,6 +8,8 @@ Instructor: Neel Smith.  Contact information: <http://neelsmith.info/holycross/c
 
 Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 
-- [Course description](./1_description/)
-- [Requirements and grading](./2_requirements/)
-- [Policies](./3_policies/)
+- [Course description](0_description/)
+-  [Goals and objectives](1_goals/)
+- [Course requirements and grading](2_requirements/)
+- [Reading](reading/)
+- Other [course information and policies](4_policies/)
