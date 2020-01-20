@@ -14,7 +14,7 @@ If you have any questions or are uncertain how it applies to our course, please 
 
 Studying the ancient Mediterrean world at Holy Cross is one way to challenge a centuries-long tradition that reserved that study for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, religious or spiritual tradition, or socioeconomic background. As we work to understand the multicultural world of the ancient Mediterranean, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives.
 
-This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Classics helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
+This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying Classics helps us see through erroneous assertions about the "whiteness" of the ancient Mediterranean, and reject claims that the Greco-Roman world is the special province of any ethnic or political group.
 
 
 ## Academic accommodations

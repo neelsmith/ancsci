@@ -3,7 +3,7 @@
 ## Observation and argumentation: mathematical astronomy and geography
 
 Introduction to course
-The *phaenomena*: the ancient astronomical model
+[The *phaenomena*: the ancient astronomical model](../assignments/phaenomena/)
 
 Scientific argument: Ptolemy, *On the Criterion*
 Naked-eye astronomy with a gnomon

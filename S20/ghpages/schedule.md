@@ -7,7 +7,7 @@ title: "Ancient Science, S'20: course schedule"
 
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
-|Jan. 21-Jan. 23 | Introduction to course | The *phaenomena*: the ancient astronomical model |   |
+|Jan. 21-Jan. 23 | Introduction to course | [The *phaenomena*: the ancient astronomical model](../assignments/phaenomena/) |   |
 |Jan. 28-Jan. 30 | Scientific argument: Ptolemy, *On the Criterion* | Naked-eye astronomy with a gnomon |   |
 |Feb. 4-Feb. 6 | Euclidean proof and Euclidean astronomy vs. Archimedes, *The Method* | Eratosthenes' measurement of the earth's circumference | **Shadow plot exercise due Tuesday.**  |
 |Feb. 11-Feb. 13 | Numeric computation and the chord function | Tables and rising times. Hypsicles to Ptolemy's *Almagest* |   |
