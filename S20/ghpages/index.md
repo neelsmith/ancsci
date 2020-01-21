@@ -17,16 +17,14 @@ Regular class schedule:  TTh 9:30-10:45, Stein 124.
 
 
 - [class schedule](schedule)
-- course material and other resources
-
+- [lab modules](labs/)
+- [quizzes](quizzes/)
+- developing [course datasets](datasets/)
+- self-designed [projects](projects/)
 
 ## Course administration
 
 - syllabus, as:
     - [a single pdf](syllabus/syllabus.pdf) (printable, but also includes live links)
     - [a web page](syllabus/)
-- [course requirements and grading](requirements/)
-    - [lab modules](labs/)
-    - [quizzes](quizzes/)
-    - developing [course datasets](datasets/)
-    - self-designed [projects](projects/)
+- [course requirements and grading](syllabus/2_requirements/)
