@@ -5,8 +5,8 @@
 Introduction to course
 [The *phaenomena*: the ancient astronomical model](../assignments/phaenomena/)
 
-Scientific argument: Ptolemy, *On the Criterion*
-Naked-eye astronomy with a gnomon
+Scientific argument: [Ptolemy, *On the Criterion*](../assignments/criterion/)
+[Naked-eye astronomy with a gnomon](../assignments/gnomon/)
 
 Euclidean proof and Euclidean astronomy vs. Archimedes, *The Method*
 Eratosthenes' measurement of the earth's circumference

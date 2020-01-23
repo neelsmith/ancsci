@@ -11,7 +11,8 @@ Regular class schedule:  TTh 9:30-10:45, Stein 124.
 
 ## Announcements and reminders
 
-- First **quiz:  Thursday, Jan. 30**, interpreting a shadow plot
+- Selections from slides used in class wll be [available here](slides/)
+- First **quiz:  Thursday, Jan. 30**, [interpreting a shadow plot](assignments/gnomon/)
 
 ## Course material
 

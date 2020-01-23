@@ -10,9 +10,13 @@
 
 ---
 
+# Please correct time on (printed) syllabus!
 
+Correct version on line (including PDF)
 
-## Summary points
+---
+
+# Summary points
 
 - perspectives on science (Kuhn)
 - *epistêmê*
@@ -20,7 +24,7 @@
 ---
 
 
-## Kuhn, *Structure of Scientific Revolution*
+# Kuhn, *Structure of Scientific Revolution*
 
 Scientific practice is
 
@@ -31,7 +35,7 @@ Scientific practice is
 
 ---
 
-## *epistêmê* ~ *scientia*
+# *epistêmê* ~ *scientia*
 
 Like English "science"
 
@@ -44,10 +48,16 @@ Like English "science"
 ---
 
 
-## *epistêmê* ~ *scientia*
+# *epistêmê* ~ *scientia*
 
 **Unlike** English:
 
 > *Special kind of knowledge, produced by special process*
+
+---
+
+# Thursday assigment
+
+## Observation -> explanation (theory) -> models
 
 ---
