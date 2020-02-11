@@ -8,7 +8,7 @@ Introduction to course
 Scientific argument: [Ptolemy, *On the Criterion*](../assignments/criterion/)
 [Naked-eye astronomy with a gnomon](../assignments/gnomon/)
 
-Euclidean proof and Euclidean astronomy vs. Archimedes, *The Method*
+[Euclidean proof and Euclidean astronomy vs. Archimedes, *The Method*](../assignments/proof/)
 Eratosthenes' measurement of the earth's circumference
 
 Numeric computation and the chord function

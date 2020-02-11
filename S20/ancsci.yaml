@@ -11,7 +11,7 @@ schedule : "tt"
 totalWeeks : 15
 
 fixedDates:
-  - 2020-02-04 == Shadow plot exercise due Tuesday.
+  - 2020-02-18 == Shadow plot exercise due Tuesday.
   - 2020-03-03 == Spring break, Mar. 3 and 5.
   - 2020-03-05 == Spring break, Mar. 3 and 5.
   - 2020-04-09 == Tuesday, Apr. 7, last day for approval of project topic.
