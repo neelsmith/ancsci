@@ -10,3 +10,4 @@ title: "Selections from slides used in class"
 - [Shadow plots with a gnomon](gnomon.pdf)
 - Introduction to [Ptolemy, *Criterion of Judgment*](criterion.pdf)
 - [Demonstrative proof](proof.pdf)
+- Reading [Archimedes, *The Method*](method.pdf)

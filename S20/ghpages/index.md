@@ -6,27 +6,29 @@ layout: page
 
 Instructor: Neel Smith ([contact information](http://neelsmith.info/holycross/contact/))
 
-Regular class schedule:  TTh 9:30-10:45, Stein 124.
+
+## Announcements and news
+
+Holy Cross courses enter a distance-learning phase the week of Mar. 23-27.  Detailed course plans will be posted here on Monday, Mar. 23.
+
+##  Optional check in
+
+I'll hold a brief, optional Google Meet on **Thursday, Mar. 19, at 9:30 a.m. Eastern time**.  If you'd like to take part, we can take a few minutes just to make contact again (as well as test out using Google Meet).
+
+I'll present a few ideas from your Google Form surveys about things we could do. You can bring further suggestions if you have additional ideas.
 
 
-## Announcements and reminders
+## GroupMe
 
-- Note that Tuesday's assignment asks you to complete a short worksheet **and bring it to class with you**.
-
-## Course material
+- you can [sign up for a class GroupMe here](https://groupme.com/join_group/58684193/ICdBp5hx) (optional)
 
 
-- [class schedule](schedule)
-- selections from [slides used in class](slides/)
-- [lab modules](labs/)
-- [quizzes](quizzes/)
-- developing [course datasets](datasets/)
-- self-designed [projects](projects/)
+## Google Meets
+
+You can use [this link](https://meet.google.com/ojf-hqdm-hif) to join class Google Meets.
+
+Before you do, please check out:
 
 
-## Course administration
-
-- syllabus, as:
-    - [a single pdf](syllabus/syllabus.pdf) (printable, but also includes live links)
-    - [a web page](syllabus/)
-- [course requirements and grading](syllabus/2_requirements/)
+- [overview of participating in a Google Meet](connect-to-meet/)
+- [Google Meet etiquette](connect-to-meet/etiquette/)
