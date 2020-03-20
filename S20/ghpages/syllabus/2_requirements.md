@@ -8,39 +8,44 @@ title: "Ancient Science, S'20"
 Course grades will be determined by specification grading, an assessment system in which assignments are graded on a satisfactory/unsatisfactory scale according to a previously circulated rubric.  One aim of specification grading is to give you control over your grades. Grades are not arbitrarily assigned – they are earned by the work that you do. Further, you get to decide how much time and energy you want to commit to the course in order to achieve the grade you desire.
 
 
-### Grade specifications
+## Prior course work
 
-Course grades will be determined by your completion of course requirements in the following categories:
-
-- group lab projects (total of 3)
-- individual quizzes in class (total of 7)
-- individual or group development of a course data set (total of 3 options)
-- individual or group self-defined project, including possible oral presentation to the class
+All students have successfully completed all course requirements for the first part of the course.
 
 
-| Group lab projects | Quizzes + datasets (10 total) | Self-defined project | Oral presentation | Base course grade |
-|:-------------------|:------------------------------|:---------------------|:------------------|:------------------|
-| 2                  | 6                             | -                    | -                 | C                 |
-| 3                  | 6                             | -                    | -                 | B-                |
-| 3                  | 7                             | -                    | -                 | B                 |
-| 3                  | 8-10                          | -                    | -                 | B+                |
-| 3                  | 8-10                          | 1                    | -                 | A-                |
-| 3                  | 8-10                          | 1                    | 1                 | A                 |
+## Individual summary conference
+
+Each of you must meet with me briefly for an individual conference sometime during the week of April 20-24.  This may be by Google Meet, phone, text message or other real-time medium.  **This conference is required to pass the course.**
+
+## Graded assignments
+
+Course grades will be determined by your satisfactory completion of the following course requirements in part 2 of the course (from March 24 to April 30):
+
+
+- quizzes and worksheets (total of 6)
+- group projects:
+    -  group data set for Ptolemy project
+    -  group analysis of precision and density
+    -  edition of assigned section of a manuscript of Ptolemy
+- individual or group self-defined project
+
+## Course grades
+
+The following table summarizes the minimum number of completed requirements earning each grade:
+
+| Quizzes/worksheets (6 total) | Group assignments | Individual or group project | Course grade |
+|:-----------------------------|:------------------|:----------------------------|:-------------|
+| 6                            | 3                 | 1                           | **A**        |
+| 4                            | 3                 | 1                           | **A-**       |
+| 6                            | 3                 | 0                           | **B+**       |
+| 5                            | 3                 | 0                           | **B**        |
+| 4                            | 3                 | 0                           | **B-**       |
+| 5                            | 2                 | 0                           | **C+**       |
+| 4                            | 2                 | 0                           | **C**        |
+| 3                            | 2                 | 0                           | **C-**       |
 
 
 
-For details on lab modules: <http://shot.holycross.edu/courses/science/S20/labs/>
+## Participation in group Meets
 
-For details on quizzes: <http://shot.holycross.edu/courses/science/S20/quizzes/>
-
-For details on developing data sets: <http://shot.holycross.edu/courses/science/S20/datasets/>
-
-For details on self-designed projects: <http://shot.holycross.edu/courses/science/S20/projects/>
-
-
-
-
-
-## Class attendance
-
-Class attendance is required. You will not be penalized for a single unexcused absence, but beginning with the second unexcused absence,  your course grade will be lowered by 1/3 of a letter grade for each unexcused absence.  (There is no penatly for excused absences.)
+Most weeks, we will have a brief group meeting using Google Meet.  A major goal of these meets is to make sure we stay in touch, and I know that you're OK while we're scattered in different locations.  If you know ahead of time that it is not possible for you to take part, please let me know by email.  If you are unexpectedly unable to take part, please follow up with me by email. 

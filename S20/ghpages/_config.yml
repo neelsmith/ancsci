@@ -17,10 +17,14 @@ url: http://shot.holycross.edu/courses/science/S20/
 links:
   - title: Home
     url: /
-  - title: Technologies
-    url: /technologies  
   - title: Schedule
     url: /schedule
+  - title: Videos
+    url: /videos
+  - title: Syllabus
+    url: /syllabus
+  - title: Technologies
+    url: /technologies
   - title: Instructor
     url: http://neelsmith.info/holycross/contact/
     external: true

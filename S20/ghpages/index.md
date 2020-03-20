@@ -4,31 +4,33 @@ layout: page
 ---
 
 
-Instructor: Neel Smith ([contact information](http://neelsmith.info/holycross/contact/))
+Instructor: Neel Smith ([contact information, including link to **"drop-in" hours**](http://neelsmith.info/holycross/contact/))
 
 
 ## Announcements and news
 
-Holy Cross courses enter a distance-learning phase the week of Mar. 23-27.  Detailed course plans will be posted here on Monday, Mar. 23.
+- welcome back! [please view this short video message from Prof. Smith](videos/welcome.mp4)
+- first group meeting using Google Meet:  **Tuesday, March 24**.  Before joining the meet, please check out:
+    - [overview of participating in a Google Meet](connect-to-meet/)
+    - [Google Meet etiquette](connect-to-meet/etiquette/)
+- revised information about group work and projects will be available on **Tuesday, March 24**.
+- the college is looking at options for P/NP grading this semester.  Stay in touch for updated information.
 
-##  Optional check in
+## Course material
 
-I'll hold a brief, optional Google Meet on **Thursday, Mar. 19, at 9:30 a.m. Eastern time**.  If you'd like to take part, we can take a few minutes just to make contact again (as well as test out using Google Meet).
+- revised [syllabus](syllabus/) (including revised course requirements and grading specifications)
+- [schedule](schedule/).  Class days labelled *group meet* will be times for all of us to use the Google Meet link below for a brief meet up.  Class days labelled *drop-in workshop* will use the scheduled 9:30-10:45 time slot as optional Google Meets where you may bring questions and we can work together on assignments you're working on.
 
-I'll present a few ideas from your Google Form surveys about things we could do. You can bring further suggestions if you have additional ideas.
+## Staying in touch
+
+### Scheduled Google Meets
+
+-  link for [class meetings](https://meet.google.com/ojf-hqdm-hif) (group meets and drop-in workshops during regular TTh 9:30-10:45 time slot)
+-  link for [drop-in hours](https://meet.google.com/pma-avfd-bzj) (M-Th, 3:00-4:00 eastern times).  If you don't have internet access, you can drop in by audio from this phone number +1 786-408-0970, plus the 9-digit PIN: 129 652 992.
 
 
-## GroupMe
+
+
+### GroupMe
 
 - you can [sign up for a class GroupMe here](https://groupme.com/join_group/58684193/ICdBp5hx) (optional)
-
-
-## Google Meets
-
-You can use [this link](https://meet.google.com/ojf-hqdm-hif) to join class Google Meets.
-
-Before you do, please check out:
-
-
-- [overview of participating in a Google Meet](connect-to-meet/)
-- [Google Meet etiquette](connect-to-meet/etiquette/)
