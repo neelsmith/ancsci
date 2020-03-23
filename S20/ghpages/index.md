@@ -10,11 +10,9 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 ## Announcements and news
 
 - welcome back! [please view this short video message from Prof. Smith](videos/welcome.mp4)
-- first group meeting using Google Meet:  **Tuesday, March 24**.  Before joining the meet, please check out:
-    - [overview of participating in a Google Meet](connect-to-meet/)
-    - [Google Meet etiquette](connect-to-meet/etiquette/)
+- first group **meeting using Zoom:  Tuesday, March 24**. (Use the group meeting link below..)
 - revised information about group work and projects will be available on **Tuesday, March 24**.
-- the college is looking at options for P/NP grading this semester.  Stay in touch for updated information.
+
 
 ## Course material
 
@@ -23,10 +21,17 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Staying in touch
 
-### Scheduled Google Meets
+If you can't get online, you can [connect to group meetings or drop-in hours by phone](phone-option/).
 
--  link for [class meetings](https://meet.google.com/ojf-hqdm-hif) (group meets and drop-in workshops during regular TTh 9:30-10:45 time slot)
--  link for [drop-in hours](https://meet.google.com/pma-avfd-bzj) (M-Th, 3:00-4:00 eastern times).  If you don't have internet access, you can drop in by audio from this phone number +1 786-408-0970, plus the 9-digit PIN: 129 652 992.
+
+### Scheduled class meetings with Zoom
+
+-  link for [class meetings](https://holycross.zoom.us/j/945550209) (group meets and drop-in workshops during regular TTh 9:30-10:45 time slot) (meeting ID 945 550 209)
+
+
+### Drop-in hours
+
+-  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID 728 661 510).  Phone options for drop-in hours if you can't get on line:
 
 
 
