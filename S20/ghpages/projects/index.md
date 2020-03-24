@@ -7,7 +7,7 @@ layout: page
 
 Required steps:
 
-- topic must be approved
+- topic must be approved.  Deadline: Apr. 16.
 - source material identified
 - explicit statement of method to apply
 - form of submission approved

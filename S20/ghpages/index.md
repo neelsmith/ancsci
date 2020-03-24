@@ -31,8 +31,7 @@ If you can't get online, you can [connect to group meetings or drop-in hours by 
 
 ### Drop-in hours
 
--  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID 728 661 510).  Phone options for drop-in hours if you can't get on line:
-
+-  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID 728 661 510).  
 
 
 
