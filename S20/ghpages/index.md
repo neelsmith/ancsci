@@ -19,6 +19,17 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 - revised [syllabus](syllabus/) (including revised course requirements and grading specifications)
 - [schedule](schedule/).  Class days labelled *group meet* will be times for all of us to use the Google Meet link below for a brief meet up.  Class days labelled *drop-in workshop* will use the scheduled 9:30-10:45 time slot as optional Google Meets where you may bring questions and we can work together on assignments you're working on.
 
+
+## Group assignments and projects
+
+Quizzes and group assignments must be completed by Thursday, Apr. 30.
+
+- [group assignments](labs/)
+- [quizzes](quizzes/)
+- [projects](projects/)
+
+
+
 ## Staying in touch
 
 If you can't get online, you can [connect to group meetings or drop-in hours by phone](phone-option/).

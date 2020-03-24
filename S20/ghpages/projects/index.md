@@ -7,13 +7,9 @@ layout: page
 
 Required steps:
 
-- topic must be approved.  Deadline: Apr. 16.
-- source material identified
-- explicit statement of method to apply
-- form of submission approved
-
-For oral presentation:
-
-- initial outline of presentation
-- identification of audio-visual
-- satisfactory rehearsal     
+1. [topic](topics/) must be approved.  Deadline: Apr. 16.
+2. [source material](sources/) identified.  Deadline: Apr. 21.
+3. [explicit statement of method](method/) to apply.  Deadline: Apr. 21.
+4. [form of submission](submission/) approved.  Deadline: Apr. 23.
+5. [draft critiqued](draft/).  Deadline: draft submitted Apr. 30.
+6. [final draft submitted](final/).  Deadline: May 6.
