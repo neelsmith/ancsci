@@ -8,4 +8,4 @@ layout: page
     - [analyzing precision and density](ptolemy-geo/precision/)
 2. Edit and interpret part of a Greek manuscript:
     - [editing](editing/)
-    - interpreting
+    - [interpreting your diplomatic edition](ms_evidence/)

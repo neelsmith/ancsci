@@ -4,16 +4,17 @@ layout: page
 ---
 
 
-- Team 1:
-- Team 2:
-- Team 3:
-- Team 4:
-- Team 5: Munich MS of *Almagest*, folio 21 verso, left column: table of inclination of ecliptic to the equator, beginning with 1 degree of arc of the ecliptic.
-- Team 6: Munich MS of *Almagest*, folio 21 verso, right column: table of inclination of ecliptic to the equator, beginning with 56 degrees of arc of the ecliptic.
-- Team 7: Paris MS of *Almagest*, folio 24 verso, left column: table of inclination of ecliptic to the equator, beginning with 1 degree of arc of the ecliptic.
-- Team 8: Paris MS of *Almagest*, folio 24 verso, right column:   table of inclination of ecliptic to the equator, beginning with 56 degrees of arc of the ecliptic
-- Team 9:
-- Team 10:
+- Team 1:  Paris MS of *Almagest*,  folio [17 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:gallica:bnf2389imgs.v1:bnf2389_img43), left table: table of chords beginning at 0.5 degrees of angle.
+- Team 2:  Paris MS of *Almagest*,  folio [17 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:gallica:bnf2389imgs.v1:bnf2389_img43), right table: table of chords beginning at 23 degrees of angle.
+- Team 3: Munich MS of *Almagest*, [folio 15 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:munich:bsb212imgs.v1:MunCG212_img34), left table: table of chords beginning at 0.5 degrees of angle.
+- Team 4: Munich MS of *Almagest*, [folio 15 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:munich:bsb212imgs.v1:MunCG212_img34), right table: table of chords beginning at 23 degrees of angle
+- Team 5: Munich MS of *Almagest*, folio [21 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:munich:bsb212imgs.v1:MunCG212_img47), left column: table of inclination of ecliptic to the equator, beginning with 1 degree of arc of the ecliptic.
+- Team 6: Munich MS of *Almagest*, folio [21 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:munich:bsb212imgs.v1:MunCG212_img47), right column: table of inclination of ecliptic to the equator, beginning with 56 degrees of arc of the ecliptic.
+- Team 7: Paris MS of *Almagest*, folio [24 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:gallica:bnf2389imgs.v1:bnf2389_img58), left column: table of inclination of ecliptic to the equator, beginning with 1 degree of arc of the ecliptic.
+- Team 8: Paris MS of *Almagest*, folio [24 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:gallica:bnf2389imgs.v1:bnf2389_img58), right column:   table of inclination of ecliptic to the equator, beginning with 56 degrees of arc of the ecliptic
+- Team 9:  Leiden MS of *Handy Tables*, [folio 64 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:leiden:bpg78imgs.v1:handy_1376): chronological table beginning from Nabonassar.
+- Team 10:  Leiden MS of *Handy Tables*, [folio 64 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:leiden:bpg78imgs.v1:handy_1377): chronological table continued from Philip of Macedon.
+
 
 
 
@@ -23,36 +24,8 @@ layout: page
 ## IGNORE OLD STUFF
 
 
-- Team 1: Leiden MS of *Handy Tables*, [folio 64 recto][64r]: chronological table beginning from Nabonassar.
-- Team 2: Leiden MS of *Handy Tables*, [folio 64 verso][64v]: chronological table continued from Philip of Macedon.
-
-
-
-
-## Munich
-
-- Team 3:  
-- Team 4:
-- Team 8:  Munich MS of *Almagest*, [folio 15 recto][m15r], left table: table of chords beginning at 0.5 degrees of angle.
-- Team 9: Munich MS of *Almagest*, [folio 15 recto][m15r], right table: table of chords beginning at 23 degrees of angle
-
-
-## Paris
-
-- Team 10:  .
-- Team 5:
-- Team 6: Paris MS of *Almagest*, [folio 17 recto][p17r], left table: table of chords beginning at 0.5 degrees of angle.
-
-- Team 7: Paris MS of *Almagest*, [folio 17 recto][p17r], right table: table of chords beginning at 23 degrees of angle
-
-
-[m21v]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bsb:muncg212img.MunCG212_img47
-
-[p17r]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:gr2389img.bnf2389_img43
-
-
-
-[bnf24v]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:gr2389img.bnf2389_img58
+- Team 1:
+- Team 2:
 -->
 
 <!-- Handy Tables chron:
@@ -84,11 +57,6 @@ layout: page
 - Paris, [folio 57 v][parisex]
 - Munich, [folio 51 r][munex]
 -->
-
-
-[munex]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bsb:muncg212img.MunCG212_img106
-
-[parisex]: http://beta.hpcc.uh.edu/tomcat/mss/images?request=GetIIPMooViewer&urn=urn:cite:bnf:gr2389img.bnf2389_img124
 
 
 
