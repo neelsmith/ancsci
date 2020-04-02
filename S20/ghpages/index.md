@@ -15,7 +15,7 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
     - instructions for analysis: [interpreting your diplomatic edition](labs/ms_evience/)
 - **Group assignment: analyzing Ptolemy's data**
    - instructions for analysis: [precision and density of Ptolemy's data](labs/ptolemy-geo/precision/)
-- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**.
+- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**;  first quiz now available on Moodle.
 - **Specification for course grade**:  see [adjusted specification allowing for reduced number of quizzes](syllabus/2_requirements/).
 
 ## Course material
