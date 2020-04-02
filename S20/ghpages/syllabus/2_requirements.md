@@ -22,27 +22,30 @@ Each of you must meet with me briefly for an individual conference sometime duri
 Course grades will be determined by your satisfactory completion of the following course requirements in part 2 of the course (from March 24 to April 30):
 
 
-- quizzes and worksheets (total of 6)
+- quizzes and worksheets (total of **4**)
 - group projects:
-    -  group data set for Ptolemy project
-    -  group analysis of precision and density
+    -  group Ptolemy project
+        - compile data set
+        - analyze data compilation
     -  edition of assigned section of a manuscript of Ptolemy
+        - edit manuscript
+        - analyze edition    
 - individual or group self-defined project
 
 ## Course grades
 
 The following table summarizes the minimum number of completed requirements earning each grade:
 
-| Quizzes/worksheets (6 total) | Group assignments | Individual or group project | Course grade |
-|:-----------------------------|:------------------|:----------------------------|:-------------|
-| 6                            | 3                 | 1                           | **A**        |
-| 4                            | 3                 | 1                           | **A-**       |
-| 6                            | 3                 | 0                           | **B+**       |
-| 5                            | 3                 | 0                           | **B**        |
-| 4                            | 3                 | 0                           | **B-**       |
-| 5                            | 2                 | 0                           | **C+**       |
-| 4                            | 2                 | 0                           | **C**        |
-| 3                            | 2                 | 0                           | **C-**       |
+| Quizzes/worksheets (4 total) | Group assignments                                 | Individual or group project | Course grade |
+|:-----------------------------|:--------------------------------------------------|:----------------------------|:-------------|
+| 4                            | 2 completed satisfactorily                        | 1                           | **A**        |
+| 3                            | 2 completed satisfactorily                        | 1                           | **A-**       |
+| 4                            | 2 completed   satisfactorily                      | 0                           | **B+**       |
+| 3                            | 2 completed   satisfactorily                      | 0                           | **B**        |
+| 2                            | 2 completed    satisfactorily                     | 0                           | **B-**       |
+| 3                            | 1 completed satisfactorily, 1 partially completed | 0                           | **C+**       |
+| 2                            | 1 completed satisfactorily, 1 partially completed | 0                           | **C**        |
+| 2                            | 1 completed satisfactorily                        | 0                           | **C-**       |
 
 
 
