@@ -4,7 +4,6 @@ layout: page
 ---
 
 
-
 ## Overview of assignment
 
 Each team is assigned approximately 30 points from Ptolemy's *Geography*.

@@ -15,7 +15,7 @@ All students have successfully completed all course requirements for the first p
 
 ## Individual summary conference
 
-Each of you must meet with me briefly for an individual conference sometime during the week of April 20-24.  This may be by Google Meet, phone, text message or other real-time medium.  **This conference is required to pass the course.**
+Each of you must meet with me briefly for an individual conference sometime during the week of April 20-24.  This may be by Zoom, phone, text message or other real-time medium.  **This conference is required to pass the course.**
 
 ## Graded assignments
 
@@ -46,6 +46,6 @@ The following table summarizes the minimum number of completed requirements earn
 
 
 
-## Participation in group Meets
+## Participation in Zoom meetings
 
-Most weeks, we will have a brief group meeting using Google Meet.  A major goal of these meets is to make sure we stay in touch, and I know that you're OK while we're scattered in different locations.  If you know ahead of time that it is not possible for you to take part, please let me know by email.  If you are unexpectedly unable to take part, please follow up with me by email. 
+Most weeks, we will have a brief group meeting using Zoom.  A major goal of these meets is to make sure we stay in touch, and I know that you're OK while we're scattered in different locations.  If you know ahead of time that it is not possible for you to take part, please let me know by email.  If you are unexpectedly unable to take part, please follow up with me by email.

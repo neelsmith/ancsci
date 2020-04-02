@@ -11,11 +11,9 @@ As we migrate to remote learning, technology will play a larger role in our cour
 You can [sign up for a class GroupMe here](https://groupme.com/join_group/58684193/ICdBp5hx) (optional)
 
 
-## Google Meets
+## Zoom
 
-You can use [this link](https://meet.google.com/ojf-hqdm-hif) to join class Google Meets.
+Zoom for conferencing:
 
-Before you do, please check out:
-
-- [overview of participating in a Google Meet](../connect-to-meet/)
-- [Google Meet etiquette](../connect-to-meet/etiquette/)
+-  use [this link](https://holycross.zoom.us/j/945550209)  (meeting ID `945 550 209`) to join class meetings
+- use [this link](https://holycross.zoom.us/j/728661510) (meeting ID `728 661 510`) for drop-in hours (M-Th, 3:00-4:00 eastern times).

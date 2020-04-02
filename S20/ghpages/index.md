@@ -9,10 +9,12 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
-- welcome back! [please view this short video message from Prof. Smith](videos/welcome.mp4)
-- first group **meeting using Zoom:  Tuesday, March 24**. (Use the group meeting link below..)
-- revised information about group work and projects will be available on **Tuesday, March 24**.
-
+- [Manuscripts for editing assignment posted](labs/editing/):  assignments of specific sections to individual teams will be posted on Thursday, Apr. 2, on [this page](labs/editing/assignments/)
+- [Schedule updated](schedule/)
+- All teams have now satisfactorily completed the group assignment to submit data for evaluating Ptolemy's origin of longitude. Thank you!
+- Complete [instructions for the group assignment to analyze the precision and density of Ptolemy's data](labs/ptolemy-geo/precision/) are now updated with link to the composite data sets you need:
+    - Composite [data for evaluating density and precision](data/provinces-valid-geo-density-precision.csv) (`.csv` file)
+    - A composite map of [all of Ptolemy's points, colored by province](data/ptolemy-provinces.kml) (`.kml` file you can open in Google Earth)
 
 ## Course material
 
