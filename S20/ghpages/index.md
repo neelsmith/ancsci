@@ -9,14 +9,13 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
-
-- Total [quizzes for part 2](quizzes/) now **reduced to 4**.  Adjusted course grading spec will be posted on Thursday, Apr. 2.
-- [Manuscripts for editing assignment posted](labs/editing/):  assignments of specific sections to individual teams will be posted on Thursday, Apr. 2, on [this page](labs/editing/assignments/)
-- [Schedule updated](schedule/)
-- All teams have now satisfactorily completed the group assignment to submit data for evaluating Ptolemy's origin of longitude. Thank you!
-- Complete [instructions for the group assignment to analyze the precision and density of Ptolemy's data](labs/ptolemy-geo/precision/) are now updated with link to the composite data sets you need:
-    - Composite [data for evaluating density and precision](data/provinces-valid-geo-density-precision.csv) (`.csv` file)
-    - A composite map of [all of Ptolemy's points, colored by province](data/ptolemy-provinces.kml) (`.kml` file you can open in Google Earth)
+- **Group assignment: editing a manuscript**
+    - [overview of manuscripts](labs/editing/):  
+    - assigned sections for [individual teams](labs/editing/assignments/)
+    - instructions for analysis: [interpreting your diplomatic edition](labs/ms_evience/)
+- **Group assignment: analyzing Ptolemy's data**
+   - instructions for analysis: [precision and density of Ptolemy's data](labs/ptolemy-geo/precision/)
+- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**.  Adjusted course grading spec will be posted on Thursday, Apr. 2.
 
 ## Course material
 
