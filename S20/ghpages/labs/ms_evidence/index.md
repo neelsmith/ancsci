@@ -10,6 +10,14 @@ You have created a translation of a *diplomatic edition* of your assigned sectio
 
 What can we learn by working with a diplomatic edition?
 
+## Instructions
+
+You will compare the text of your assigned portion of the text with Bruce Perry's translation of the *Almagest* in the textbook we've used in this class.  You can find the relevant sections here:
+
+- table of chords:  pages 46 - 56
+- table of obliquity (relation of distances along the ecliptic circle and the equator): pages 66-68.
+- chronological table ("Canon of Kings"):  pages 12-13. (Although this table appears in the *Handy Tables* and not in the *Almagest*, Perry and Donahue include a translation of it in their introductory chapter.) 
+
 ## Submission
 
 

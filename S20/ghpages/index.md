@@ -40,12 +40,12 @@ If you can't get online, you can [connect to group meetings or drop-in hours by 
 
 ### Scheduled class meetings with Zoom
 
--  link for [class meetings](https://holycross.zoom.us/j/945550209) (group meets and drop-in workshops during regular TTh 9:30-10:45 time slot) (meeting ID 945 550 209)
+-  link for [class meetings](https://holycross.zoom.us/j/945550209) (group meets and drop-in workshops during regular TTh 9:30-10:45 time slot) (meeting ID `945 550 209`)
 
 
 ### Drop-in hours
 
--  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID 728 661 510).  
+-  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID `728 661 510`).  
 
 
 
