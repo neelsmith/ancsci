@@ -10,7 +10,7 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 ## Announcements and news
 
 
-- Total quizzes for part 2 now **reduced to 4**.  Adjusted course grading spec will be posted on Thursday, Apr. 2.
+- Total [quizzes for part 2](quizzes/) now **reduced to 4**.  Adjusted course grading spec will be posted on Thursday, Apr. 2.
 - [Manuscripts for editing assignment posted](labs/editing/):  assignments of specific sections to individual teams will be posted on Thursday, Apr. 2, on [this page](labs/editing/assignments/)
 - [Schedule updated](schedule/)
 - All teams have now satisfactorily completed the group assignment to submit data for evaluating Ptolemy's origin of longitude. Thank you!
