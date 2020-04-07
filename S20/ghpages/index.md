@@ -9,6 +9,8 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
+
+- [Review sheet for quiz on names and dates](quizzes/names-dates/)
 - **Group assignment: editing a manuscript**
     - [overview of manuscripts](labs/editing/):  
     - assigned sections for [individual teams](labs/editing/assignments/) Target submission date: by April 15.

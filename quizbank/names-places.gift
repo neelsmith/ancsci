@@ -1,0 +1,23 @@
+$CATEGORY: namedentities
+
+//Some quiz questions for S20 version of course.
+::Quaternion:: A quarternion contains { =4 =four } bifolios.
+
+::Bifolio:: Each bifolio contains { =4 =four } pages.
+
+::Numbering:: If folios in a quaternion are numbered consecutively staring with 1, and identified as "recto" or "verso" (e.g., the first page is "1 recto"), then what is identifier for the last page of a quaternion? {
+  ~8 recto
+  ~4 verso
+  =8 verso
+  ~16 recto
+}
+
+::Quires:: If folios in a quaternion are numbered consecutively staring with 1, what folio joins (as part of the same bifolio) folio 4? { =5 =five}
+
+::Terms:: Match the following terms with the correct definition { =colophon -> "Annotation at end of manuscript giving information about the text or scribe" =vellum -> "Prepared animal skin used for pages of a manuscript" =codex -> "A manuscript in book format"  =palimpsest -> "A manuscript with reused pages" }
+
+
+::Manuscripts:: Match the following individual manuscripts with the correct features { =D’Orville 301 -> "Manuscript of Euclid dated by colophon to 888 CE"
+=Archimedes palimpsest -> "Tenth-century palimpsest uniquely preserving the Method"
+=Vatican 190-> "Tenth-century manuscript with proof matching text in commentary of Theon"
+}
