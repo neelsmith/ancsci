@@ -1,23 +1,28 @@
 $CATEGORY: namedentities
 
 //Some quiz questions for S20 version of course.
-::Quaternion:: A quarternion contains { =4 =four } bifolios.
+::AlmagestDate:: The latest dated observation in the Almagest is  { =141 } CE.
 
-::Bifolio:: Each bifolio contains { =4 =four } pages.
-
-::Numbering:: If folios in a quaternion are numbered consecutively staring with 1, and identified as "recto" or "verso" (e.g., the first page is "1 recto"), then what is identifier for the last page of a quaternion? {
-  ~8 recto
-  ~4 verso
-  =8 verso
-  ~16 recto
-}
-
-::Quires:: If folios in a quaternion are numbered consecutively staring with 1, what folio joins (as part of the same bifolio) folio 4? { =5 =five}
-
-::Terms:: Match the following terms with the correct definition { =colophon -> "Annotation at end of manuscript giving information about the text or scribe" =vellum -> "Prepared animal skin used for pages of a manuscript" =codex -> "A manuscript in book format"  =palimpsest -> "A manuscript with reused pages" }
+::HipparchusDate:: Although Hipparchus' scientific work does not survive, Ptolemy cites him often in the Almagest.  The latest observation that Ptolemy attributes to Hipparchus dates to { =127 } BCE.
 
 
-::Manuscripts:: Match the following individual manuscripts with the correct features { =D’Orville 301 -> "Manuscript of Euclid dated by colophon to 888 CE"
-=Archimedes palimpsest -> "Tenth-century palimpsest uniquely preserving the Method"
-=Vatican 190-> "Tenth-century manuscript with proof matching text in commentary of Theon"
+::EarlyAstro:: In the Almagest, Ptolemy cites observations of earlier Babylonian astronomers.  The earliest observation he cites dates to { =721 } BCE.
+
+::Cleo:: Eratosthenes' method for measuring the circumference of the earth is described for us in greatest detail by the author { =Cleomedes }.
+
+::Archie::Archimedes was killed by a Roman soldier at the siege of Syracuse in { =212 } BCE.
+
+::Geo:: The author of the definitive treatise on two-dimensional geometry was  { =Euclid }.
+
+::Phaen:: The conventional title of Euclid's astronomical treatise is { =Phaenomena }.
+
+::Dorv:: The earliest manuscript of Euclid is dated by a colophon to the year { =888 } CE.
+
+
+
+::bigNames:: Match the following individual manuscripts with the correct features {
+  =Hypatia -> Mathematician of the late fourth century CE who continued her father's work editing and writing commentaries on major treatises by Apollonius of Perge and Ptolemy.
+  =Archimedes  -> Mathematician of the third-century BCE whose previously lost treatise "The Method" anticipating integral calculus was discovered in a palimpsest manuscript.
+  =Theon of Alexandria -> Mathematician of the late fourth century CE who edited and wrote commentary on Euclid.
+  =Apollonius of Perge -> Third-century BCE author of treatise on Conics in 7 books. The last 3 books survive only in later Arabic translation.
 }
