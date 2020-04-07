@@ -9,7 +9,7 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
-
+- **Tuesday, Apr. 7**: shortened drop-in hours today. I have to attend a 3:30 meeting.
 - [Review sheet for quiz on names and dates](quizzes/names-dates/)
 - **Group assignment: editing a manuscript**
     - [overview of manuscripts](labs/editing/):  

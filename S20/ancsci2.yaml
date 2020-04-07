@@ -1,0 +1,26 @@
+# Configure a course calendar
+# Used for title of web page
+pageTitle : "Ancient Science, schedule for part 2 of S20"
+# YYYY-MM-DD
+firstDay: "2020-03-23"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule : "tt"
+
+# Number of weeks the calendar should run for
+totalWeeks : 9
+
+fixedDates:
+  - 2020-04-14 == By Wednesday, submit edition of manuscript.
+  - 2020-03-19 == Thursday, spring equinox.
+  - 2020-04-16 == Project topics must be approved by Thursday.
+  - 2020-04-21 == Academic conference on Wednesday, Apr. 22.
+  - 2020-04-09 == Thursday, Apr. 9, Easter break
+  - 2020-04-30 == Thursday, Apr. 30, last day to take quizzes.
+  - 2121-04-09 == Tuesday, Apr. 7, last day for approval of project topic.
+  - 2121-03-24 == Tuesday, Mar. 24, lab assignment due (size of the earth).
+  - 2121-03-24 == Thursday, Mar. 26, lab assignment due (editing Ptolemy).
+
+  - 2020-04-30 == Last day to submit final projects is Wed., May 6.
+  - 2121-03-12 == Thursday, Mar. 12, assignment due ([Ptolemy's geographic data](http://shot.holycross.edu/courses/science/S20/labs/ptolemy-geo/), part 1).
+  - 2121-03-14 == Thursday, Mar. 14, assignment due ([Ptolemy's geographic data](http://shot.holycross.edu/courses/science/S20/labs/ptolemy-geo/), part 2).
