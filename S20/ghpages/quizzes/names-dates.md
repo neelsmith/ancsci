@@ -19,5 +19,7 @@ You should be familiar with the subject matter of the scientific treatises and t
 Well-attested absolute dates are rare in ancient history.  You should know the following:
 
 - 721 BCE: earliest dated observation in Ptolemy's *Almagest* !
+- 212 BCE: death of Archimedes at the siege of Syracuse
 - 127 BCE: latest dated observation attributed to Hipparchus
 - 141 CE: latest dated observation in Ptolemy's *Almagest*  
+- 888 CE: earliest complete MS of a classical Greek text (D'Orville manuscript of Euclid)

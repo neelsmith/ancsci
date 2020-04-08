@@ -10,14 +10,14 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 ## Announcements and news
 
 - **Tuesday, Apr. 7**: shortened drop-in hours today. I have to attend a 3:30 meeting.
-- [Review sheet for quiz on names and dates](quizzes/names-dates/)
+- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**;  first two quizzes now available on Moodle.
+    - [Review sheet for quiz on names and dates](quizzes/names-dates/)
 - **Group assignment: editing a manuscript**
     - [overview of manuscripts](labs/editing/):  
     - assigned sections for [individual teams](labs/editing/assignments/) Target submission date: by April 15.
     - instructions for analysis: [interpreting your diplomatic edition](labs/ms_evidence/)
 - **Group assignment: analyzing Ptolemy's data**
    - instructions for analysis: [precision and density of Ptolemy's data](labs/ptolemy-geo/precision/)
-- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**;  first quiz now available on Moodle.
 - **Specification for course grade**:  see [adjusted specification allowing for reduced number of quizzes](syllabus/2_requirements/).
 
 ## Course material
