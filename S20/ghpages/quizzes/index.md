@@ -14,5 +14,5 @@ In Part 2 of the course, quizzes will be made available on Moodle.  (When new qu
 
 3. [Manuscript transmission](manuscripts/).  Now available on Moodle.
 5. [Names and dates](names-dates/).
-4. Using a table of obliquities, and a table of rising times
+4. Using a table of rising times
 7. The precession of the equinoxes
