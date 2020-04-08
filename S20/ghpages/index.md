@@ -14,7 +14,7 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 - **Group assignment: editing a manuscript**
     - [overview of manuscripts](labs/editing/):  
     - assigned sections for [individual teams](labs/editing/assignments/) Target submission date: by April 15.
-    - instructions for analysis: [interpreting your diplomatic edition](labs/ms_evience/)
+    - instructions for analysis: [interpreting your diplomatic edition](labs/ms_evidence/)
 - **Group assignment: analyzing Ptolemy's data**
    - instructions for analysis: [precision and density of Ptolemy's data](labs/ptolemy-geo/precision/)
 - **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**;  first quiz now available on Moodle.
