@@ -38,8 +38,8 @@ The following table summarizes the minimum number of completed requirements earn
 
 | Quizzes/worksheets (4 total) | Group assignments                                 | Individual or group project | Course grade |
 |:-----------------------------|:--------------------------------------------------|:----------------------------|:-------------|
-| 4                            | 2 completed satisfactorily                        | 1                           | **A**        |
-| 3                            | 2 completed satisfactorily                        | 1                           | **A-**       |
+| 3-4                            | 2 completed satisfactorily                        | 1                           | **A**        |
+| 4                            | 2 completed satisfactorily                        |0                            | **A-**        |
 | 4                            | 2 completed   satisfactorily                      | 0                           | **B+**       |
 | 3                            | 2 completed   satisfactorily                      | 0                           | **B**        |
 | 2                            | 2 completed    satisfactorily                     | 0                           | **B-**       |
