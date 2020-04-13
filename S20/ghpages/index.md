@@ -9,10 +9,10 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
+
+- **Quizzes**:  All quizzes now available on Moodle.  Review material for each quiz or worksheet [linked here](quizzes/)
+- **Video on precession of the equinoxes**: mp4 file [online here](videos/precession.mp4).
 - **Specification for course grade**:  [adjusted on April 9 with new option for A- course grade](syllabus/2_requirements/).
-- **Quizzes**: total [quizzes for part 2](quizzes/) now **reduced to 4**.
-    - Guide for completing [quiz (worksheet) on tables of rising times ](quizzes/rising-times/)
-    - [Review sheet for quiz on names and dates](quizzes/names-dates/)
 - **Group assignment: editing a manuscript**
     - [overview of manuscripts](labs/editing/):  
     - assigned sections for [individual teams](labs/editing/assignments/) Target submission date: by April 15.

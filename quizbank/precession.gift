@@ -1,0 +1,26 @@
+$CATEGORY: precession
+
+//Some quiz questions for S20 version of course.
+::Predecessors:: Hipparchus was troubled that his measurements were not in agreement with some made by his predecessors Timarchis and Aristyllus. They were roughly contemporary with which one of the following? {
+  ~Theon of Alexandria
+  ~Meton of Athens
+  =Euclid
+  ~Ptolemy
+}
+
+::Rate:: Ptolemy calculated that the stars drift in relation to the equinox at a rate of roughly 1 degree every { =100 } years
+
+
+
+::Measurements:: How did Hipparchus locate stars in his catalog?  {
+  ~Angular distance from the ecliptic
+  =Longitude/latitude coordinates
+  ~Angular distance from other stars in the same constellation
+}
+
+::Arguments:: Which one of these was NOT part of Ptolemy's testing of Hipparchus' hypothesis? {
+  ~Constellations formed the same figure in Ptolemy's day as centuries earlier.
+  =Relative brightness of stars did not change from Timarchis to Ptolemy.
+  ~Stars on the zodiac circle showed the same changes of position as other stars.
+  ~Different constellations aligned with the spring equinox at different dates.
+}

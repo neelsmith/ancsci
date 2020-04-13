@@ -15,4 +15,4 @@ In Part 2 of the course, quizzes will be made available on Moodle.  (When new qu
 3. [Manuscript transmission](manuscripts/). Available on Moodle.
 5. [Names and dates](names-dates/). Available on Moodle.
 4. [Using a table of rising times](rising-times/). Available on Moodle.
-7. The precession of the equinoxes
+7. The precession of the equinoxes: see [review video](http://shot.holycross.edu/courses/science/S20//videos/precession.mp4).  Available on Moodle.
