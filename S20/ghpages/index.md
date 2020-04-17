@@ -9,7 +9,7 @@ Instructor: Neel Smith ([contact information, including link to **"drop-in" hour
 
 ## Announcements and news
 
-
+- [Google calendar links added to course schedule](schedule/) to sign up for individual/small-group consultations
 - **Quizzes**:  All quizzes now available on Moodle.  Review material for each quiz or worksheet [linked here](quizzes/)
 - **Video on precession of the equinoxes**: mp4 file [online here](videos/precession.mp4).
 - **Specification for course grade**:  [adjusted on April 9 with new option for A- course grade](syllabus/2_requirements/).
